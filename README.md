@@ -1,2 +1,2 @@
 # Apps
-Apps created in Java
+Apps created in Java and Haskell
